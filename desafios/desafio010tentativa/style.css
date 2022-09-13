@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+header {
+    background-color: #1a5c37;
+    color: white;
+    font-family: arial, verdana, helvetica, sans-serif;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 0px rgb(0 0 0 / 27%);
+    padding: 20px;
+}
+
+nav > a {
+    text-decoration: none;
+}
+
+
